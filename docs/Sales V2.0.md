@@ -1,7 +1,5 @@
 # Manual de Operación Detallado: Portal de Ventas y Gestión Educativa
 
-**Versión:** 2.0  
-**Plataforma:** Salesforce Lightning Experience  
 **Alcance:** Gestión del ciclo de vida del alumno (Lead to Cash), validaciones académicas y cierre de ventas.
 
 ---
