@@ -1,9 +1,7 @@
 # Especificación de Caso de Uso: Visualizar Leads
 
-**ID:** CU-VE-003
-
+**ID:** CU-VE-003  
 **Actor(es):** Promotor de Ventas (Agente), Responsable de Ventas (Gerente/Admin)  
-
 **Objeto Salesforce:** Lead (Prospecto)
 
 ---
