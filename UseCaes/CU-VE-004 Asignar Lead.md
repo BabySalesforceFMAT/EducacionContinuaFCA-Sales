@@ -33,12 +33,12 @@ El Responsable de Ventas distribuye los prospectos entrantes entre los Promotore
 
 ## 4. Flujos Alternativos
 
-### B. Uso de Reglas de Asignación
+### A. Uso de Reglas de Asignación
 * **Contexto:** Se desea aplicar lógica automática sin selección manual.
 * **Acción:** Al crear o editar un lead, el usuario marca la casilla **"Asignar usando reglas de asignación activas"**.
 * **Resultado:** Salesforce evalúa los criterios (ej. Si `Programa_de_Interes__c` = "Finanzas", asignar a Agente X) y cambia el propietario automáticamente.
 
-### C. Error de Permisos
+### B. Error de Permisos
 * **Disparador:** Un Agente intenta asignarse leads de otro compañero sin tener permisos de transferencia.
 * **Resultado:** El sistema oculta el botón "Cambiar propietario" o muestra un mensaje de error: *"Privilegios insuficientes"*.
 
