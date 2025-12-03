@@ -85,3 +85,7 @@ El Promotor de Ventas registra en la **Cronología de Actividades** (*Activity T
 1.  **Historial:** La bitácora de la oportunidad refleja la nueva interacción con fecha y autor.
 2.  **Estado:** Si hubo cambio de etapa, la oportunidad avanza en el embudo de ventas o se cierra definitivamente.
 3.  **Reportes:** La actividad se contabiliza en los reportes de rendimiento del Agente (ej. "Llamadas realizadas esta semana").
+
+---
+
+<img width="5666" height="3133" alt="CU-VE-006" src="https://github.com/user-attachments/assets/6285f7b5-6002-4f21-b9cc-14f8830b741d" />
