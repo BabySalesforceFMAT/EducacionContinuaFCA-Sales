@@ -1,6 +1,6 @@
 # Especificación de Caso de Uso: Editar Tarea de Seguimiento
 
-**ID:** CU-VE-009  
+**ID:** CU-VE-008  
 **Actor(es):** Promotor de Ventas (Agente)  
 **Objeto Salesforce:** Task (Tarea)
 
